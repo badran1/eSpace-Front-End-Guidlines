@@ -4,7 +4,7 @@ The following document outlines a reasonable style guide for CSS development. Th
 
 ## Introduction
 
-This is a living document of Best Practices and Code Standards for Front-End Development at O3 World. The Development Team is encouraged to test, discuss, and evolve what is documented here together as best practices change and new ideas are shared. **Please implement and enforce these agreed upon standards in your own builds and in code reviews at all times for all projects.**
+This is a living document of Best Practices and Code Standards for Front-End Development. The UI Development Team is encouraged to test, discuss, and evolve what is documented here together as best practices change and new ideas are shared. **Please implement and enforce these agreed upon standards in your own builds and in code reviews at all times for all projects.**
 
 > Well-formed markup is made up of part standards and part agreed upon preferences by a team of developers. Along with consistency, both are important in creating maintainable, readable code for everybody.
 
